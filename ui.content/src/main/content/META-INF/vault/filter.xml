@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/conf/jimArch20Apps" mode="merge"/>
+    <filter root="/content/jimArch20Apps" mode="merge"/>
+    <filter root="/content/dam/jimArch20Apps" mode="merge"/>
+</workspaceFilter>
